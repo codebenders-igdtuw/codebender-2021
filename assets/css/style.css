@@ -905,12 +905,17 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+/*   width: 90px;
   border-radius: 50%;
   margin: -40px 0 0 40px;
   position: relative;
   z-index: 2;
-  border: 6px solid #fff;
+  border: 6px solid #fff; */
+  width: 90px;
+  height: 90px;
+  float: left;
+  border-radius: 100%;
+  border:6px solid #fff;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
 }
 
