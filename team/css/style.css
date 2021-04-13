@@ -21,7 +21,7 @@
 		text-decoration: underline;
 	}
 
-	.copyright a{
+	.copyright a, .copyright a:hover{
 		text-decoration: none;
 		color: inherit;
 	}
