@@ -1,7 +1,8 @@
 body {
     background-image: url("https://wallpapercave.com/wp/G1jXRDq.jpg");
     background-repeat: no-repeat;
-    background-size:cover;
+    background-position: right bottom;
+    background-size: 50%;
     text-align: center;
 }
 
@@ -22,7 +23,7 @@ a:hover {
     color: white;
     text-align: left;
     padding: 0 8%;
-    padding-top: 12%;
+    padding-top: 5%;
 }
 
 .head-img {
