@@ -21,6 +21,11 @@
 		text-decoration: underline;
 	}
 
+	.copyright a{
+		text-decoration: none;
+		color: inherit;
+	}
+
 	strong, b {
 		font-weight: 700;
 	}
